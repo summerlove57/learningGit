@@ -23,3 +23,5 @@ Creating a new branch is quick & simple.
 Bug 分支
 
 “没有被git管理”
+
+本地 greenstar
